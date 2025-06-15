@@ -15,7 +15,7 @@ This is a machine learning-powered web application that predicts the **risk of H
 
 ## 🚀 Live App
 
-👉 
+👉 https://hepatitis-predictor-app-4e4if2rzvf9lkuewocytiy.streamlit.app/
 
 ## 🧠 Model Pipeline
 
