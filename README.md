@@ -13,11 +13,11 @@ This is a machine learning-powered web application that predicts the **risk of H
   - Accuracy: 96%
   - Priority: High recall to reduce false negatives
 
-## 🚀 Live App
+## Live App
 
 👉 https://hepatitis-predictor-app-4e4if2rzvf9lkuewocytiy.streamlit.app/
 
-## 🧠 Model Pipeline
+## Model Pipeline
 
 The final model is wrapped in a **scikit-learn pipeline** that:
 - Imputes missing values
